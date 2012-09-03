@@ -1,0 +1,2 @@
+Configuration Puppet de Nicolargo version 4
+
